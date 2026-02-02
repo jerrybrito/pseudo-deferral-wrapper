@@ -1,0 +1,2 @@
+# Requires: unlikely-hesitation
+# (Not available on PyPI)
